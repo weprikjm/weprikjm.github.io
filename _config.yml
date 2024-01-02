@@ -60,13 +60,10 @@ content:
           - title:  weprikjm/ImmoPHPSummer
             icon: fab fa-github
             url: github.com/weprikjm/ImmoPHPSumme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Aplicación estilo idealista realizada en el bootcamp de PHP y Laravel de la camara de comercio en Girona.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Proyecto final del bootcamp de PHP y Laravel de la camara de comercio en Girona. Se trata de una aplicación estilo idealista realizada en Laravel con PHP. La aplicación permite a los usuarios registrarse y publicar anuncios de inmuebles. Los usuarios pueden buscar inmuebles por diferentes criterios y contactar con los propietarios de los inmuebles. Los usuarios pueden valorar los inmuebles y los propietarios pueden gestionar sus inmuebles y sus anuncios.
 
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
