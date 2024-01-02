@@ -114,7 +114,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Administrar los sistemas informáticos y servidores de la empresa y desarrollar herramientas para su gestión. Administración del portal web y su mantenimiento. Edición de video de producción.
 
-       - layout: left
+      - layout: left
         title: Seur DPD - Girona
         link: https://www.seur.es/
         # link_text: boringcompany.com
