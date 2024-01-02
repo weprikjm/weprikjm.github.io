@@ -66,7 +66,7 @@ content:
           Proyecto final del bootcamp de PHP y Laravel de la camara de comercio en Girona. Se trata de una aplicación estilo idealista realizada en Laravel con PHP. La aplicación permite a los usuarios registrarse y publicar anuncios de inmuebles. Los usuarios pueden buscar inmuebles por diferentes criterios y contactar con los propietarios de los inmuebles. Los usuarios pueden valorar los inmuebles y los propietarios pueden gestionar sus inmuebles y sus anuncios.
     content:
       - layout: top-middle
-      - title: Starcraft Last Hope
+        title: Starcraft Last Hope
         link: http://crandino.github.io/StarCraft/
         # link_text: Project Website
         additional_links:
