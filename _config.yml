@@ -44,7 +44,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Versátil profesional IT con dedicación al trabajo en equipo y a la satisfacción de los clientes alineado con los objetivos de la empresa.
 
@@ -89,18 +89,17 @@ content:
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Durant els meus estudis a la UPC vaig aprendre a desenvolupar videojocs amb diferents motors com Unity, Unreal i Game Maker. També vaig aprendre a programar en diferents llenguatges com C/C++, C#, Javascript, Python i Lua. Durant els meus estudis vaig aprendre a treballar en equip i a gestionar projectes de forma eficient.
+          Durante mis estudios en la UPC aprendí a desarrollar videojuegos con diferentes motores como Unity, Unreal y Game Maker. También aprendí a programar en diferentes lenguajes como C/C++, C#, Javascript, Python y Lua. Durante mis estudios aprendí a trabajar en equipo y a gestionar proyectos de forma eficiente.
 
-          Vaig destinar gran part del temps lliure a participar en game jams i a desenvolupar projectes propis. També destinava temps a estudiar música i la tècnica del cant.
+          Destiné gran parte del tiempo libre a participar en game jams y a desarrollar proyectos propios. También destinaba tiempo a estudiar música y la técnica del canto.
 
   - title: Una mica més sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Al voltant de l'afició a la programació de sistemes i videojocs, també m'agrada la música, el cant, la psicologia, la cuina i la natura. M'agrada molt la muntanya i la bicicleta de muntanya. També m'agrada molt la tecnologia i la informàtica en general. M'agrada molt aprendre coses noves i m'agrada molt la ciència ficció:
-      - Meditació
+      Alrededor de la afición a la programación de sistemas y videojuegos, también me gusta la música, el canto, la psicología, la cocina y la naturaleza. Me gusta mucho la montaña y la bicicleta de montaña. También me gusta mucho la tecnología y la informática en general. Me gusta mucho aprender cosas nuevas y me gusta mucho la ciencia ficción:
+      - Meditación
       - Música
-      - Cant
-      - Cuina
+      - Cocina
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
