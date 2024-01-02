@@ -66,17 +66,17 @@ content:
           Proyecto final del bootcamp de PHP y Laravel de la camara de comercio en Girona. Se trata de una aplicación estilo idealista realizada en Laravel con PHP. La aplicación permite a los usuarios registrarse y publicar anuncios de inmuebles. Los usuarios pueden buscar inmuebles por diferentes criterios y contactar con los propietarios de los inmuebles. Los usuarios pueden valorar los inmuebles y los propietarios pueden gestionar sus inmuebles y sus anuncios.
     content:
       - layout: top-middle
-        title: Starcraft Last Hope
-        link: http://crandino.github.io/StarCraft/
-        # link_text: Project Website
-        additional_links:
-          - title:  crandino.github.io/StarCraft/
-            icon: fab fa-github
-            url: http://crandino.github.io/StarCraft/
-        quote: >
-          Proyecto final de segundo curso del grado de diseño y desarrollo de videojuegos en la UPC.
-        description: | # this will include new lines to allow paragraphs
-          El proyecto fue realizado dentro de un motor que creamos previamente en C/C++. El motor permitía cargar mapas y sprites y gestionar la lógica del juego. El juego es un RTS en el que el jugador debe gestionar sus recursos y construir unidades para resistir oleadas de ataques enemigos, para encontrar la forma de vencer.
+  - title: Starcraft Last Hope
+    link: http://crandino.github.io/StarCraft/
+    # link_text: Project Website
+    additional_links:
+      - title:  crandino.github.io/StarCraft/
+        icon: fab fa-github
+        url: http://crandino.github.io/StarCraft/
+    quote: >
+      Proyecto final de segundo curso del grado de diseño y desarrollo de videojuegos en la UPC.
+    description: | # this will include new lines to allow paragraphs
+      El proyecto fue realizado dentro de un motor que creamos previamente en C/C++. El motor permitía cargar mapas y sprites y gestionar la lógica del juego. El juego es un RTS en el que el jugador debe gestionar sus recursos y construir unidades para resistir oleadas de ataques enemigos, para encontrar la forma de vencer.
 
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
