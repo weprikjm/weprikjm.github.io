@@ -92,21 +92,54 @@ content:
         description: | # this will include new lines to allow paragraphs
           Desarrollo de catalogos de datos y otras herramientas de business intelligence para empresas de diferentes sectores.
 
+      - layout: left
+        title: Bianna Business
+        link: https://bianna.com/en/
+        # link_text: boringcompany.com
+        sub_title: Programador Web Full Stack Jr
+        caption: Enero 2022 - Octubre 2022
+        quote: >
+          Reciclaje de residuos máquinaria e ingenieria.
+        description: | # this will include new lines to allow paragraphs
+          Desarrollo de la intranet de la empresa y herramientas de inteligencia artificial.
+
+      - layout: left
+        title: SkyDive Empuriabrava
+        link: https://www.skydiveempuriabrava.com/
+        # link_text: boringcompany.com
+        sub_title: Administrador de Sistemas y Programador Web
+        caption: Setiembre 2019 - Setiembre 2021
+        quote: >
+          The land of the Sky.
+        description: | # this will include new lines to allow paragraphs
+          Administrar los sistemas informáticos y servidores de la empresa y desarrollar herramientas para su gestión. Administración del portal web y su mantenimiento. Edición de video de producción.
+
+       - layout: left
+        title: Seur DPD - Girona
+        link: https://www.seur.es/
+        # link_text: boringcompany.com
+        sub_title: Administrador de Sistemas
+        caption: Octubre 2017 - Setiembre 2019
+        quote: >
+          Logística
+        description: | # this will include new lines to allow paragraphs
+          Administrar los sistemas informáticos y servidores de la empresa, helpdesk y soporte a flota, desarrollar herramientas para integrar clientes a medida, campañas masivas. Instalación de software para la integración B2B de clientes.
+
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: CITM UPC
         caption: 2014 - 2017
-        sub_title: Disseny i Desenvolupament de Videojocs
+        sub_title: Diseño y Desarrollo de Videojuegos
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Grado en Diseño y Desarrollo de Videojuegos
         description: | # this will include new lines to allow paragraphs
           Durante mis estudios en la UPC aprendí a desarrollar videojuegos con diferentes motores como Unity, Unreal y Game Maker. También aprendí a programar en diferentes lenguajes como C/C++, C#, Javascript, Python y Lua. Durante mis estudios aprendí a trabajar en equipo y a gestionar proyectos de forma eficiente.
 
           Destiné gran parte del tiempo libre a participar en game jams y a desarrollar proyectos propios. También destinaba tiempo a estudiar música y la técnica del canto.
 
-  - title: Una mica més sobre mi
+  - title: Un poco más sobre mi # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alrededor de la afición a la programación de sistemas y videojuegos, también me gusta la música, el canto, la psicología, la cocina y la naturaleza. Me gusta mucho la montaña y la bicicleta de montaña. También me gusta mucho la tecnología y la informática en general. Me gusta mucho aprender cosas nuevas y me gusta mucho la ciencia ficción:
