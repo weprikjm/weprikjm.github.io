@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: weprikjm/weprikjm.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -16,31 +16,14 @@ darkmode: false
 
 # Social links
 github_username:  weprikjm
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 linkedin_username: ruben.idigora
-# xing_username: jekyll
-# pinterest_username: jekyll
 youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -86,7 +69,7 @@ content:
         link: galeotech.com
         # link_text: boringcompany.com
         sub_title: Programador Web Full Stack
-        caption: Octubre 2022 - Febrer 2023
+        caption: Octubre 2022 - Febrero 2023
         quote: >
           La importáncia del dato en la toma de decisiones.
         description: | # this will include new lines to allow paragraphs
@@ -139,16 +122,24 @@ content:
 
           Destiné gran parte del tiempo libre a participar en game jams y a desarrollar proyectos propios. También destinaba tiempo a estudiar música y la técnica del canto.
 
+      - layout: left
+        title: Bootcamp Fundació Esplai PHP y Laravel
+        caption: Verano 2019
+        sub_title: Programación Web
+        quote: >
+          Bootcamp desarrollo web
+        description: | # this will include new lines to allow paragraphs
+          Intensivo de programación web maquetación y javascript, con backend en PHP y Laravel.
+
   - title: Un poco más sobre mi # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alrededor de la afición a la programación de sistemas y videojuegos, también me gusta la música, el canto, la psicología, la cocina y la naturaleza. Me gusta mucho la montaña y la bicicleta de montaña. También me gusta mucho la tecnología y la informática en general. Me gusta mucho aprender cosas nuevas y me gusta mucho la ciencia ficción:
+      Alrededor de la afición a la programación de sistemas y videojuegos, también me gusta la música, el canto, la psicología, la cocina y la naturaleza. También me gusta mucho la tecnología y la informática en general. Me gusta mucho aprender cosas nuevas y me gusta mucho la ciencia ficción:
       - Meditación
-      - Música
+      - Diseño de videojuegos
+      - Escultura
+      - Musica
       - Cocina
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
