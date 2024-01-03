@@ -65,7 +65,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-      - title: Galeo Tech
+        title: Galeo Tech
         link: galeotech.com
         # link_text: boringcompany.com
         sub_title: Programador Web Full Stack
@@ -76,7 +76,7 @@ content:
           Desarrollo de catalogos de datos y otras herramientas de business intelligence para empresas de diferentes sectores.
 
       - layout: top-middle
-      - title: Bianna Business
+        title: Bianna Business
         link: https://bianna.com/en/
         # link_text: boringcompany.com
         sub_title: Programador Web Full Stack Jr
@@ -87,7 +87,7 @@ content:
           Desarrollo de la intranet de la empresa y herramientas de inteligencia artificial.
 
       - layout: top-middle
-      - title: SkyDive Empuriabrava
+        title: SkyDive Empuriabrava
         link: https://www.skydiveempuriabrava.com/
         # link_text: boringcompany.com
         sub_title: Administrador de Sistemas y Programador Web
@@ -98,7 +98,7 @@ content:
           Administrar los sistemas informáticos y servidores de la empresa y desarrollar herramientas para su gestión. Administración del portal web y su mantenimiento. Edición de video de producción.
 
       - layout: top-middle
-      - title: Seur DPD - Girona
+        title: Seur DPD - Girona
         link: https://www.seur.es/
         # link_text: boringcompany.com
         sub_title: Administrador de Sistemas
@@ -111,7 +111,7 @@ content:
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: CITM UPC
         caption: 2014 - 2017
         sub_title: Diseño y Desarrollo de Videojuegos
@@ -122,7 +122,7 @@ content:
 
           Destiné gran parte del tiempo libre a participar en game jams y a desarrollar proyectos propios. También destinaba tiempo a estudiar música y la técnica del canto.
 
-      - layout: left
+      - layout: top-middle
         title: Bootcamp Fundació Esplai PHP y Laravel
         caption: Verano 2019
         sub_title: Programación Web
