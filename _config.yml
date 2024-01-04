@@ -12,7 +12,7 @@ email: ruben.idigora@gmail.com
 website: weprikjm.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  weprikjm
@@ -144,8 +144,6 @@ content:
           Grado en Multimedia
         description: | # this will include new lines to allow paragraphs
           Diseño de contenido multimedia, diseño gráfico, diseño web, diseño 3D, diseño de aplicaciones, diseño de interacción, diseño de interfaces, diseño centrado en el usuario
-
-
 
       - layout: top-middle
         title: Bootcamp Fundació Esplai PHP y Laravel
