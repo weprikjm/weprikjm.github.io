@@ -135,7 +135,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Diseño de contenido multimedia, diseño gráfico, diseño web, diseño 3D, diseño de aplicaciones, diseño de interacción, diseño de interfaces, diseño centrado en el usuario
 
-       - layout: top-middle
+      - layout: top-middle
         title: CITM UPC
         caption: 2014 - 2017
         sub_title: Diseño y Desarrollo de Videojuegos
