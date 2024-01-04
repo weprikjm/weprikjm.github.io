@@ -126,6 +126,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: UOC
+        caption: 2022 - Actualidad
+        sub_title: Grado Multimedia
+        quote: >
+          Grado en Multimedia
+        description: | # this will include new lines to allow paragraphs
+          Diseño de contenido multimedia, diseño gráfico, diseño web, diseño 3D, diseño de aplicaciones, diseño de interacción, diseño de interfaces, diseño centrado en el usuario
+
+       - layout: top-middle
         title: CITM UPC
         caption: 2014 - 2017
         sub_title: Diseño y Desarrollo de Videojuegos
@@ -135,15 +144,6 @@ content:
           Durante mis estudios en la UPC aprendí a desarrollar videojuegos con diferentes motores como Unity, Unreal y Game Maker. También aprendí a programar en diferentes lenguajes como C/C++, C#, Javascript, Python y Lua. Durante mis estudios aprendí a trabajar en equipo y a gestionar proyectos de forma eficiente.
 
           Destiné gran parte del tiempo libre a participar en game jams y a desarrollar proyectos propios. También destinaba tiempo a estudiar música y la técnica del canto.
-
-      - layout: top-middle
-        title: UOC
-        caption: 2022 - Actualidad
-        sub_title: Grado Multimedia
-        quote: >
-          Grado en Multimedia
-        description: | # this will include new lines to allow paragraphs
-          Diseño de contenido multimedia, diseño gráfico, diseño web, diseño 3D, diseño de aplicaciones, diseño de interacción, diseño de interfaces, diseño centrado en el usuario
 
       - layout: top-middle
         title: Bootcamp Fundació Esplai PHP y Laravel
