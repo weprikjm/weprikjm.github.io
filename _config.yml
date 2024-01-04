@@ -137,6 +137,17 @@ content:
           Destiné gran parte del tiempo libre a participar en game jams y a desarrollar proyectos propios. También destinaba tiempo a estudiar música y la técnica del canto.
 
       - layout: top-middle
+        title: UOC
+        caption: 2022 - Actualidad
+        sub_title: Grado Multimedia
+        quote: >
+          Grado en Multimedia
+        description: | # this will include new lines to allow paragraphs
+          Diseño de contenido multimedia, diseño gráfico, diseño web, diseño 3D, diseño de aplicaciones, diseño de interacción, diseño de interfaces, diseño centrado en el usuario
+
+
+
+      - layout: top-middle
         title: Bootcamp Fundació Esplai PHP y Laravel
         caption: Verano 2019
         sub_title: Programación Web
