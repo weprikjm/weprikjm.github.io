@@ -79,7 +79,7 @@ content:
 
 
       - layout: top-middle
-      - title: Galeo Tech
+        title: Galeo Tech
         link: galeotech.com
         # link_text: boringcompany.com
         sub_title: Programador Web Full Stack
