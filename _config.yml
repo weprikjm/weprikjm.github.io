@@ -27,7 +27,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/ruben.jpg
+about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Versátil profesional IT con dedicación al trabajo en equipo y a la satisfacción de los clientes alineado con los objetivos de la empresa.
 
@@ -73,7 +73,7 @@ content:
         quote: >
           La importáncia del dato en la toma de decisiones.
         description: | # this will include new lines to allow paragraphs
-          Desarrollo de catalogos de datos y otras herramientas de business intelligence para empresas de diferentes sectores.
+          Desarrollo de catalogos de datos y otras herramientas de business intelligence para empresas de diferentes sectores del ibex 35. Aplicaciones dockerizadas hechas en Angular, vue y Django.
 
       - layout: top-middle
         title: Bianna Business
@@ -84,7 +84,7 @@ content:
         quote: >
           Reciclaje de residuos máquinaria e ingenieria.
         description: | # this will include new lines to allow paragraphs
-          Desarrollo de la intranet de la empresa y herramientas de inteligencia artificial.
+          Desarrollo de la intranet de la empresa y herramientas de inteligencia artificial. Aplicación dockerizada con Vue y Django. Automatizaciones de procesos usando apis de google como document ai o google drive (gestor documental).
 
       - layout: top-middle
         title: SkyDive Empuriabrava
@@ -96,6 +96,7 @@ content:
           The land of the Sky.
         description: | # this will include new lines to allow paragraphs
           Administrar los sistemas informáticos y servidores de la empresa y desarrollar herramientas para su gestión. Administración del portal web y su mantenimiento. Edición de video de producción.
+          Microsoft SQL Server, Windows Server, PHP, Java, Wordpress, Linux, Active Directory, Office 365
 
       - layout: top-middle
         title: Seur DPD - Girona
@@ -106,7 +107,7 @@ content:
         quote: >
           Logística
         description: | # this will include new lines to allow paragraphs
-          Administrar los sistemas informáticos y servidores de la empresa, helpdesk y soporte a flota, desarrollar herramientas para integrar clientes a medida, campañas masivas. Instalación de software para la integración B2B de clientes.
+          Administrar los sistemas informáticos y servidores de la empresa, helpdesk y soporte a flota, desarrollar herramientas para integrar clientes a medida (Python), campañas masivas. Instalación de software para la integración B2B de clientes.
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
