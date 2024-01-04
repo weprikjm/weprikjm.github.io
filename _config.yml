@@ -29,7 +29,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Versátil profesional IT con dedicación al trabajo en equipo y a la satisfacción de los clientes alineado con los objetivos de la empresa.
+  //Descripción enrollada de mi perfil profesional
+  Soy un desarrollador web y de videojuegos con experiencia en el desarrollo de aplicaciones web y en la administración de sistemas informáticos. Me gusta mucho la programación y la tecnología en general.
+  Intento comprender lo que necesitan mis clientes y mis compañeros para poder ofrecerles la mejor solución posible. Me gusta trabajar en equipo y aprender cosas nuevas. Me gusta mucho la ciencia ficción y la fantasía. Me gusta mucho la música y la naturaleza.
 
 content:
   - title: Proyectos # Title for the section
