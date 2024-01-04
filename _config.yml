@@ -64,6 +64,19 @@ content:
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: top-middle
+        title: Frescmarket
+        link: frescmarket.com
+        # link_text: boringcompany.com
+        sub_title: Director de Informática
+        caption: Agosto 2023 - Actualmente
+        quote: >
+          Producto ecologico y fresco de proximidad a domicilio.
+        description: | # this will include new lines to allow paragraphs
+          Digitalización de procesos, administración de ecommerce, gestión de servidores y sistemas informáticos, desarrollo de herramientas de gestión interna y de business intelligence. Desarrollo de aplicaciones dockerizadas hechas en Angular, vue y Django.
+
+
       - layout: top-middle
         title: Galeo Tech
         link: galeotech.com
@@ -130,7 +143,7 @@ content:
         quote: >
           Bootcamp desarrollo web
         description: | # this will include new lines to allow paragraphs
-          Intensivo de programación web maquetación y javascript, con backend en PHP y Laravel.
+          Intensivo de programación web maquetación (HTML, CSS) y javascript, con backend en PHP y Laravel.
 
   - title: Un poco más sobre mi # Title for the section
     layout: text
